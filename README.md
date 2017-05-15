@@ -12,6 +12,11 @@
 
 ![image](http://i.imgur.com/yj2vMER.jpg)
 
+### What have we learnt?
+
+After looking at 3 competitor course sites we have learnt a lot about how we want to structure our own site and what kind of language to use. These 3 sites are very different and we took all of the good points and the bad points of each site and sat down and looked at what we could do in terms of our own site.
+
+2 of these sites are very word heavy and we looked into how we could maybe improve this but also keep the content that we need. The Bath Spa site as you can see above is very nicely laid out and so we want to take inspiration from this site and greatly improve it. The other 2 sites as you can see are very text heavy.
 
 ## Personas
 
