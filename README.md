@@ -57,6 +57,8 @@ So what we learn from this is that the content we use on our site should express
 
 ## :memo: Content strategy & content map :earth_africa:
 
+![image](http://i.imgur.com/gKN5bzt.jpg)
+
 ## :moyai: Mood board & wireframes :bookmark_tabs:
 
 ![image](http://i.imgur.com/2X7tPor.jpg)
