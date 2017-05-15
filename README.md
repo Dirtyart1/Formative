@@ -58,5 +58,9 @@ So what we learn from this is that the content we use on our site should express
 ## Content strategy & content map
 
 ## Mood board & wireframes
+![image](http://i.imgur.com/9FdHkxt.jpg)
+
+Above are some screeshots of our moodboard we had on pinterest and we have a wide variety of web designs on there. Our group took great inspiration from the bright and vibrant designs. Moodboard is [here](https://uk.pinterest.com/domonicbishop/web-media-site/)
+
 
 ## Presentation
