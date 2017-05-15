@@ -4,7 +4,7 @@ On this team project we designed and built a website for our Ravensbourne Web Me
 
 # :clipboard: Research :bar_chart:  
 
-### Competitors
+### Competitors :trophy:
 
 [London Met - Digital Media](http://www.londonmet.ac.uk/courses/undergraduate/digital-media---ba-hons/)
 
@@ -20,7 +20,7 @@ After looking at 3 competitor course sites we have learnt a lot about how we wan
 
 2 of these sites are very word heavy and we looked into how we could maybe improve this but also keep the content that we need. The Bath Spa site as you can see above is very nicely laid out and so we want to take inspiration from this site and greatly improve it. The other 2 sites as you can see are very text heavy.
 
-## Personas
+## :performing_arts: Personas :boy:
 ![image](http://i.imgur.com/JV8K0I1.jpg)
 
 ### How do your personas represent your target audience(s)?
@@ -38,7 +38,7 @@ Using words that are buzz words for a course page would be great for parents and
 - Details about the course over the 3 years i.e. modules that you will doing during the years.
 
 
-## Interviews
+## :telephone: Interviews :pager:
 
 ### Who where they?
 
@@ -55,7 +55,7 @@ The other question relating to improving their skills let them express why they 
 So what we learn from this is that the content we use on our site should express that the course helps creative people improve their skills, and pursue their interests on the course. In addition we should bare in mind how different the way of assessment is for our course and how that sets it apart from other courses of the same subject.
 
 
-## Content strategy & content map
+## :memo: Content strategy & content map :globe_with_meridians:
 
 ## Mood board & wireframes
 
