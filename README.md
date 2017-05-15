@@ -10,7 +10,8 @@
 
 [University of Greenwich - Creative Digital Media](http://www.gre.ac.uk/ug/ach/g403)
 
-http://imgur.com/4d51005f-7cbb-422a-86bb-d9ef68509a6d
+![image](http://i.imgur.com/yj2vMER.jpg)
+
 
 ### Personas
 
