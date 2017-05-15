@@ -55,9 +55,9 @@ The other question relating to improving their skills let them express why they 
 So what we learn from this is that the content we use on our site should express that the course helps creative people improve their skills, and pursue their interests on the course. In addition we should bare in mind how different the way of assessment is for our course and how that sets it apart from other courses of the same subject.
 
 
-## :memo: Content strategy & content map :globe_with_meridians:
+## :memo: Content strategy & content map :earth_africa:
 
-## Mood board & wireframes
+## :moyai: Mood board & wireframes :bookmark_tabs:
 
 ![image](http://i.imgur.com/2X7tPor.jpg)
 Above you can see our 2 mock ups and wireframes we tried to keep it colourful on one and then very conten full on the other. We looked at colours and type faces we could potentially use and what it would look like in the final product. We looked at the following elements when creating these mock-ups;
@@ -75,5 +75,5 @@ After looking at these elements we created the mockups and then started to gathe
 Above are some screeshots of our moodboard we had on pinterest and we have a wide variety of web designs on there. Our group took great inspiration from the bright and vibrant designs. Moodboard is [here](https://uk.pinterest.com/domonicbishop/web-media-site/)
 
 
-## Presentation
+##  :page_facing_up: Presentation :bar_chart:
 https://drive.google.com/file/d/0Bxz8JLU6zi9EODlicDF0aEVQc00/view?usp=sharing
