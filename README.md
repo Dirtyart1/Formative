@@ -21,6 +21,7 @@ After looking at 3 competitor course sites we have learnt a lot about how we wan
 2 of these sites are very word heavy and we looked into how we could maybe improve this but also keep the content that we need. The Bath Spa site as you can see above is very nicely laid out and so we want to take inspiration from this site and greatly improve it. The other 2 sites as you can see are very text heavy.
 
 ## Personas
+![image](http://i.imgur.com/JV8K0I1.jpg)
 
 
 ## Interviews
