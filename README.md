@@ -58,6 +58,18 @@ So what we learn from this is that the content we use on our site should express
 ## Content strategy & content map
 
 ## Mood board & wireframes
+
+![image](http://i.imgur.com/2X7tPor.jpg)
+Above you can see our 2 mock ups and wireframes we tried to keep it colourful on one and then very conten full on the other. We looked at colours and type faces we could potentially use and what it would look like in the final product. We looked at the following elements when creating these mock-ups;
+
+- Colours
+- Fonts
+- Images
+- Content
+
+After looking at these elements we created the mockups and then started to gather some ideas for our final design.
+
+
 ![image](http://i.imgur.com/9FdHkxt.jpg)
 
 Above are some screeshots of our moodboard we had on pinterest and we have a wide variety of web designs on there. Our group took great inspiration from the bright and vibrant designs. Moodboard is [here](https://uk.pinterest.com/domonicbishop/web-media-site/)
