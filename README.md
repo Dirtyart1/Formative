@@ -3,6 +3,8 @@
 http://totallyundefined.raveweb.net/
 On this team project we designed and built a website for our Ravensbourne Web Media degree course. We looked at competitors and did audience research in order to create the best page to best advertise our course. We went in detail about the content we will need to include as well as what kind of fonts and colours we would use.
 
+# [Link to finshed website!](http://totallyundefined.raveweb.net/)
+
 # :clipboard: Research :bar_chart:  
 
 ### Competitors :trophy:
@@ -78,5 +80,8 @@ After looking at these elements we created the mockups and then started to gathe
 Above are some screeshots of our moodboard we had on pinterest and we have a wide variety of web designs on there. Our group took great inspiration from the bright and vibrant designs. Moodboard is [here](https://uk.pinterest.com/domonicbishop/web-media-site/)
 
 
-##  :page_facing_up: Presentation :bar_chart:
+##  :page_facing_up: Presentation Formative :bar_chart:
+https://drive.google.com/file/d/0Bxz8JLU6zi9EODlicDF0aEVQc00/view?usp=sharing
+
+## Summative presentation
 https://drive.google.com/file/d/0Bxz8JLU6zi9EODlicDF0aEVQc00/view?usp=sharing
